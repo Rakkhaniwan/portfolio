@@ -380,6 +380,11 @@ a:focus {
     background: #FF6F61;
 }
 
+@media (max-width: 768px) {
+    .header .content-inner {
+        background-image: none;
+    }
+}
 
 /**********************************/
 /*********** About CSS ************/
